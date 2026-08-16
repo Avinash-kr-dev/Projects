@@ -10,7 +10,7 @@ buttons.forEach((button) => {
         break;
 
       case "white":
-        body.style.backgroundColor = black;
+        body.style.backgroundColor = e.target.id;
 
       case "blue":
         body.style.backgroundColor = e.target.id;
