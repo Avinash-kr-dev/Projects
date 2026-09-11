@@ -17,8 +17,9 @@ Personal practice repo for learning JavaScript basics.
 | ⌨️ Event KeyCodes | `Five-Keyboard/` |
 | 🌈 Background Color Changer | `Six-unlimitedColor/` |
 | ✅ To-Do List App | `to-do app/` |
-| 🌤️ Weather App | `weather-app/` |
-| 🛒 E-Commerce Cart | `e-commerce-cart/` |
+| 🌤️ Weather App | `Weather App/` |
+| 🛒 E-Commerce Cart | `E-Commerce Cart/` |
+| 💰 Expense Tracker | `Expense Tracker/` |
 
 ---
 
@@ -40,8 +41,9 @@ Projects/
 ├── Five-Keyboard/
 ├── Six-unlimitedColor/
 ├── to-do app/
-├── weather-app/
-└── e-commerce-cart/
+├── Weather App/
+├── E-Commerce Cart/
+└── Expense Tracker/
     (Each with: index.html, style.css, script.js)
 ```
 
