@@ -36,12 +36,13 @@ document.addEventListener("DOMContentLoaded", () => {
         task.completed = !task.completed
         li.classList.toggle("completed")
         saveTasks()
+        
     });
 
 
     li.querySelector('button').addEventListener('click', (e) => {
         e.stopPropagation() // Prevent toggle form firing
-        tasks = tasks.filter((t) => t.id === task.id)
+      tasks = tasks.filter((t) => t.id !== task.id)
         li.remove();
         saveTasks();
     })
