@@ -20,6 +20,7 @@ Personal practice repo for learning JavaScript basics.
 | 🌤️ Weather App | `Weather App/` |
 | 🛒 E-Commerce Cart | `E-Commerce Cart/` |
 | 💰 Expense Tracker | `Expense Tracker/` |
+| 💰 Quiz App | `Quiz App/` |
 
 ---
 
@@ -43,7 +44,8 @@ Projects/
 ├── to-do app/
 ├── Weather App/
 ├── E-Commerce Cart/
-└── Expense Tracker/
+├── Expense Tracker/
+└── Quiz App
     (Each with: index.html, style.css, script.js)
 ```
 
